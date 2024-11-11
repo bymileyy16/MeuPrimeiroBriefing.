@@ -77,3 +77,21 @@ body {
     width: 65px; /* Diminuir o tamanho do logo */
     height: auto;
 }
+/* Estilo do Footer */
+footer {
+    background-color: whitesmoke;
+    width: 100%; /* O footer vai ocupar toda a largura da tela */
+    padding: 10px 0; /* Ajuste de padding para o footer */
+    position: relative; /* Faz o footer se posicionar no final da página */
+    bottom: 0;
+    text-align: center;
+    color: #141414c9;
+    margin-top: auto; /* Faz com que o footer seja empurrado para o final da página */
+    padding-top: 25px;
+}
+
+/* Estilo de um texto básico no footer */
+footer  {
+    
+    font-size: 15px;
+}
