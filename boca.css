@@ -95,3 +95,27 @@ footer  {
     
     font-size: 15px;
 }
+main{
+    padding-top: 35px;
+}
+.card-text{
+    font-size: 12px;
+}
+.card-title{
+    font-size: 25px;
+}
+#corpocartao {
+    margin-bottom: 5px; /* Diminui o espaçamento entre os parágrafos */
+  }
+  .preco-antigo, .preco-novo {
+    font-weight: bold; /* Deixa os preços mais destacados */
+  }
+  
+  .preco-antigo {
+    text-decoration: line-through; /* Risca o preço antigo */
+    margin-right: 10px; /* Dá um pequeno espaço entre os preços */
+  }
+  
+  .preco-novo {
+    color: green; /* Coloca o preço novo em uma cor mais destacada */
+  }

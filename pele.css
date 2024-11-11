@@ -87,3 +87,12 @@ footer  {
     
     font-size: 15px;
 }
+main{
+    padding-top: 35px;
+}
+.card-text{
+    font-size: 12px;
+}
+.card-title{
+    font-size: 25px;
+}

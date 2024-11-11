@@ -123,3 +123,13 @@ footer  {
     
     font-size: 15px;
 }
+     /* Efeito de movimentação ao passar o mouse sobre o card */
+     #cartao {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    /* Quando o mouse passar sobre o card */
+    #cartao:hover {
+        transform: translateY(-10px); /* Movimento para cima */
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Sombra para dar destaque */
+    }
