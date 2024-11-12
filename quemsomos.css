@@ -1,12 +1,3 @@
-body {
-    background-color: whitesmoke;
-    margin: 0;
-    font-family: "Epilogue", sans-serif;
-    padding-top: 50px; /* Ajustado para reduzir o espaço entre a navbar e o conteúdo */
-    min-height: 100vh; /* Garante que o corpo ocupe toda a altura da tela */
-    display: flex;
-    flex-direction: column;
-}
 @import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 header {
@@ -94,4 +85,46 @@ footer {
 footer  {
     
     font-size: 15px;
+}
+
+.img-lat{
+    padding-top: 50px;
+   padding-left: 25px;
+   width:24%;
+   height: auto;
+   float:left;
+   
+   
+}
+/* CSS do container com Flexbox */
+.container-fluid {
+    display: flex; /* Flexbox para alinhar itens na horizontal */
+    align-items: flex-start; /* Alinha os itens no topo */
+    justify-content: flex-start; /* Alinha os itens à esquerda */
+    gap: 20px; /* Espaço entre a imagem e o card */
+}
+
+/* CSS do card ajustado */
+.card-custom {
+    width: 80%; /* Ajuste o valor para o tamanho desejado */
+    max-width: 1000px; /* Limite máximo para o card */
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 60px;
+    padding: 20px; /* Ajusta o espaçamento interno */
+    border-radius: 10px; /* Bordas arredondadas para um visual mais suave */
+    background-color: #fff; /* Cor de fundo do card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* Outras regras de estilo para o título e texto */
+.card-custom .titulo {
+    padding: 12px;
+    font-size: 50px; /* Ajusta o tamanho do título */
+    text-align: center; /* Centraliza o título */
+}
+
+.card-custom .texto {
+    font-size: 18px; /* Ajusta o tamanho do texto */
+    line-height: 1.6; /* Melhor legibilidade */
 }

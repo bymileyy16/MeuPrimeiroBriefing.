@@ -123,8 +123,10 @@ footer  {
     
     font-size: 15px;
 }
+
      /* Efeito de movimentação ao passar o mouse sobre o card */
-     #cartao {
+     #cartao{
+        
         transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 

@@ -96,3 +96,16 @@ main{
 .card-title{
     font-size: 25px;
 }
+.preco-antigo, .preco-novo {
+    font-weight: bold; /* Deixa os preços mais destacados */
+    font-size: 16px;
+  }
+  
+  .preco-antigo {
+    text-decoration: line-through; /* Risca o preço antigo */
+    margin-right: 10px; /* Dá um pequeno espaço entre os preços */
+  }
+  
+  .preco-novo {
+    color: green; /* Coloca o preço novo em uma cor mais destacada */
+  }

@@ -109,6 +109,7 @@ main{
   }
   .preco-antigo, .preco-novo {
     font-weight: bold; /* Deixa os preços mais destacados */
+    font-size: 16px;
   }
   
   .preco-antigo {
