@@ -87,14 +87,21 @@ footer  {
     font-size: 15px;
 }
 
-.img-lat{
-    padding-top: 50px;
-   padding-left: 25px;
-   width:24%;
-   height: auto;
-   float:left;
-   
-   
+
+.img-esq, .img-dir {
+    margin-top: 60px;
+    width: 24%;
+    height: auto;
+    border-radius: 10px; /* Borda arredondada */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    transition: box-shadow 0.3s ease-in-out; /* Efeito suave na sombra ao passar o mouse */
+    margin-left: 15px; /* Distância da borda esquerda */
+    margin-right: 15px;
+}
+
+/* Efeito de sombra ao passar o mouse */
+.img-esq:hover, .img-dir:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Sombra mais forte no hover */
 }
 /* CSS do container com Flexbox */
 .container-fluid {
@@ -106,11 +113,11 @@ footer  {
 
 /* CSS do card ajustado */
 .card-custom {
-    width: 80%; /* Ajuste o valor para o tamanho desejado */
+    width: 75%; /* Ajuste o valor para o tamanho desejado */
     max-width: 1000px; /* Limite máximo para o card */
-    margin-top: 50px;
-    margin-left: 100px;
-    margin-right: 60px;
+    margin-top: 60px;
+    margin-left: 45px;
+    margin-right: 45px;
     padding: 20px; /* Ajusta o espaçamento interno */
     border-radius: 10px; /* Bordas arredondadas para um visual mais suave */
     background-color: #fff; /* Cor de fundo do card */
@@ -119,12 +126,12 @@ footer  {
 
 /* Outras regras de estilo para o título e texto */
 .card-custom .titulo {
-    padding: 12px;
-    font-size: 50px; /* Ajusta o tamanho do título */
+    padding: 10px;
+    font-size: 60px; /* Ajusta o tamanho do título */
     text-align: center; /* Centraliza o título */
 }
 
 .card-custom .texto {
     font-size: 18px; /* Ajusta o tamanho do texto */
-    line-height: 1.6; /* Melhor legibilidade */
+    line-height: 1.7; /* Melhor legibilidade */
 }
