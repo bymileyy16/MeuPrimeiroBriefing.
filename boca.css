@@ -120,3 +120,6 @@ main{
   .preco-novo {
     color: green; /* Coloca o preço novo em uma cor mais destacada */
   }
+  .card:hover{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Sombra para dar destaque */
+  }
