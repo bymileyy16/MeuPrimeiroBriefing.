@@ -45,10 +45,10 @@ O layout foi desenvolvido para ser visualmente atraente e fácil de navegar, seg
 -**Integração de bibliotecas como Bootstrap para agilizar o desenvolvimento.**
 
 ## 🖥️ Demonstração
-<img  src="Demonstração inicio.jpg" alt="Demonstração Inicio">
-<img  src="Demonstração Produtos.jpg" alt="Demonstração Produtos">
-<img  src="Demonstração compra.jpg" alt="Demonstração Compra">
-<img  src="Demonstração quemsomos.jpg" alt="Demonstração Quem somos">
+<img  src="Demontracao inicio.jpg" alt="Demonstração Inicio">
+<img  src="Demontracao Produtos.jpg" alt="Demonstração Produtos">
+<img  src="Demonstracao compra.jpg" alt="Demonstração Compra">
+<img  src="Demonstracao quemsomos.jpg" alt="Demonstração Quem somos">
 
 
 
