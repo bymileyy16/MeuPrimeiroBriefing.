@@ -47,7 +47,7 @@ O layout foi desenvolvido para ser visualmente atraente e fácil de navegar, seg
 ## 🖥️ Demonstração
 <img  src="Demontração inicio.jpg" alt="Demonstração Inicio">
 <img  src="Demontração Produtos.jpg" alt="Demonstração Produtos">
-<img  src="Demontração compra.jpg" alt="Demonstração Compra">
+<img  src="Demonstracao compra.jpg" alt="Demonstração Compra">
 <img  src="Demontração quemsomos.jpg" alt="Demonstração Quem somos">
 
 
