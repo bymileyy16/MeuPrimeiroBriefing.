@@ -45,7 +45,11 @@ O layout foi desenvolvido para ser visualmente atraente e fácil de navegar, seg
 -**Integração de bibliotecas como Bootstrap para agilizar o desenvolvimento.**
 
 ## 🖥️ Demonstração
-![Demonstração Site](Demonstracao-Site.gif)
+<img  src="Demonstração inicio.jpg" alt="Demonstração Inicio">
+<img  src="Demonstração Produtos.jpg" alt="Demonstração Produtos">
+<img  src="Demonstração compra.jpg" alt="Demonstração Compra">
+<img  src="Demonstração quemsomos.jpg" alt="Demonstração Quem somos">
+
 
 
 ## 📞 Contato
