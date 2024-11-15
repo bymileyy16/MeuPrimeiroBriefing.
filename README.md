@@ -10,7 +10,9 @@ O objetivo deste projeto foi aplicar os conhecimentos adquiridos sobre HTML, CSS
 #### O projeto foi desenvolvido com o intuito de:
 
 - **Entender o processo de criação de um site desde o briefing até a entrega final.**
+- 
 - **Praticar habilidades em HTML, CSS e JavaScript para desenvolvimento de interfaces responsivas e dinâmicas.**
+- 
 - **Aplicar conceitos de design e usabilidade para proporcionar uma experiência agradável ao usuário.**
 
 ## 🔖 Estrutura do Projeto
@@ -25,8 +27,11 @@ O objetivo deste projeto foi aplicar os conhecimentos adquiridos sobre HTML, CSS
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5 - Estrutura do conteúdo e marcação das páginas.**
+- 
 - **CSS3 - Estilização e design responsivo do site.**
+- 
 - **JavaScript - Funcionalidades interativas, como navegação dinâmica e manipulação de DOM.**
+- 
 - **Bootstrap - Utilizado para facilitar o design responsivo e componentes pré-formatados.**
 
 ## 📷 Layout
@@ -34,8 +39,11 @@ O layout foi desenvolvido para ser visualmente atraente e fácil de navegar, seg
 
 ## 🚀 Funcionalidades
 -**Navegação Intuitiva: Links de navegação fáceis de usar, organizados por categorias.**
+
 -**Responsividade: Design adaptável para diferentes dispositivos, como desktops, tablets e smartphones.**
+
 -**Exibição Dinâmica de Produtos: Uso de JavaScript para exibir informações de produtos de maneira dinâmica.**
+
 -**Formulário de Contato: Formulário funcional para que os usuários possam enviar mensagens para a empresa.**
 
 ## 📈 Aprendizados
@@ -43,8 +51,11 @@ O layout foi desenvolvido para ser visualmente atraente e fácil de navegar, seg
 **Durante o desenvolvimento deste projeto, foram trabalhados conceitos importantes de:**
 
 -**Estruturação de conteúdo em HTML.**
+
 -**Estilização com CSS, incluindo técnicas de responsividade.**
+
 -**Programação client-side com JavaScript, aplicando manipulação do DOM e interatividade.**
+
 -**Integração de bibliotecas como Bootstrap para agilizar o desenvolvimento.**
 
 ## 🖥️ Demonstração
