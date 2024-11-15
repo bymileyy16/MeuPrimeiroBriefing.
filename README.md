@@ -27,11 +27,11 @@ O objetivo deste projeto foi aplicar os conhecimentos adquiridos sobre HTML, CSS
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5 - Estrutura do conteúdo e marcação das páginas.**
-- 
+  
 - **CSS3 - Estilização e design responsivo do site.**
-- 
+  
 - **JavaScript - Funcionalidades interativas, como navegação dinâmica e manipulação de DOM.**
-- 
+  
 - **Bootstrap - Utilizado para facilitar o design responsivo e componentes pré-formatados.**
 
 ## 📷 Layout
