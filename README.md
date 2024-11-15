@@ -10,9 +10,9 @@ O objetivo deste projeto foi aplicar os conhecimentos adquiridos sobre HTML, CSS
 #### O projeto foi desenvolvido com o intuito de:
 
 - **Entender o processo de criação de um site desde o briefing até a entrega final.**
-- 
+  
 - **Praticar habilidades em HTML, CSS e JavaScript para desenvolvimento de interfaces responsivas e dinâmicas.**
-- 
+  
 - **Aplicar conceitos de design e usabilidade para proporcionar uma experiência agradável ao usuário.**
 
 ## 🔖 Estrutura do Projeto
