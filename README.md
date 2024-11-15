@@ -16,8 +16,11 @@ O objetivo deste projeto foi aplicar os conhecimentos adquiridos sobre HTML, CSS
 ## 🔖 Estrutura do Projeto
 
 **1 - Página Inicial**- Apresenta um banner e destaques de produtos.
+
 **2 - Página de Produtos** - Lista categorias de produtos como maquiagem para olhos, boca e pele.
+
 **3 - Página Quem Somos** - Descreve a história e a missão da Mari-Madu Makeup.
+
 **4 - Página de Contato** - Oferece um formulário para que os usuários entrem em contato com a empresa
 
 ## 🛠️ Tecnologias Utilizadas
