@@ -101,7 +101,7 @@ main{
 .card-custom {
     width: 80%; /* Ajuste o valor para o tamanho desejado */
     max-width: 1000px; /* Limite máximo para o card */
-    margin-top: 50px;
+    margin-top: 80px;
     margin-left: 100px;
     margin-right: 60px;
     padding: 20px; /* Ajusta o espaçamento interno */
@@ -189,7 +189,7 @@ height: 60px;
    background-color: white;
     gap: 20px;
     padding: 5px;
-    margin-top:5px;
+    margin-top:50px;
     margin-right: 150px;
     margin-left: 150px;
     border-radius: 10px;
@@ -295,10 +295,10 @@ height: 60px;
     background-color: white;
     gap: 20px;
     padding: 5px;
-    margin-top: 5px;
+    margin-top: 20px;
     margin-right: 150px;
     margin-left: 150px;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .imagem-produto img {
