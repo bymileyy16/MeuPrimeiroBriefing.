@@ -99,9 +99,10 @@ main{
 
 /* CSS do card ajustado */
 .card-custom {
+    padding-top: 15px;
     width: 80%; /* Ajuste o valor para o tamanho desejado */
     max-width: 1000px; /* Limite máximo para o card */
-    margin-top: 80px;
+    margin-top: 100px;
     margin-left: 100px;
     margin-right: 60px;
     padding: 20px; /* Ajusta o espaçamento interno */
@@ -164,19 +165,19 @@ float: left;
 }
 .avaliacao{
     padding-left: 35px;
-
-    margin-left: 80px;
+    margin-left: 70px;
     padding-top: 15px;
     height: 35%;
-    width: 60%;
+    width: 70%;
 }
 .btn{
 margin-top: 10px;
 margin-left: 80px;
 font-size: 30px;
 font-weight: bold;
-width: 400px;
+width: 360px;
 height: 60px;
+border-radius: 15px;
 }
 .produto:hover{
 
@@ -290,15 +291,20 @@ height: 60px;
 /* Outros estilos gerais */
 .produto {
     display: flex;
+    justify-content: center;  /* Center items horizontally */
+    align-items: center;      /* Center items vertically */
     height: 710px;
-    width: auto;
+    width: 1200px;
     background-color: white;
     gap: 20px;
+   
     padding: 5px;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-right: 150px;
     margin-left: 150px;
     border-radius: 12px;
+    margin: 0 auto;
+    margin-top:50px; 
 }
 
 .imagem-produto img {
