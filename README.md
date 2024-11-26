@@ -3,6 +3,8 @@ Este repositório contém o código-fonte de um website desenvolvido como ativid
 
 O projeto foi realizado com base em um briefing e teve como objetivo a criação de um site para uma empresa fictícia de maquiagem chamada Mari-Madu Makeup.
 
+**Site Ativo: https://leonardoheringer.github.io/MeuPrimeiroBrienfig/**
+
 ## 📋 Resumo do Projeto
 O objetivo deste projeto foi aplicar os conhecimentos adquiridos sobre HTML, CSS e JavaScript para criar um site completo e responsivo. O site da Mari-Madu Makeup apresenta produtos de maquiagem e fornece informações sobre a empresa, permitindo que os usuários conheçam mais sobre os produtos e a marca.
 ## 🎯 Objetivo da Atividade
@@ -70,4 +72,8 @@ O layout foi desenvolvido para ser visualmente atraente e fácil de navegar, seg
 ## 📞 Contato
 Em caso de dúvidas ou sugestões, entre em contato:
 
+
+
+
+ 
 -**Email: heringerleonardo560@gmail.com**
